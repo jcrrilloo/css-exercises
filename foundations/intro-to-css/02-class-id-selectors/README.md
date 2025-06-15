@@ -23,3 +23,26 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+### Working through the problem
+- Let's start with what we know:
+* We will have ID and Class selectors
+- Let's identify those first with the correct tags/syntax
+[x]Completed
+
+secondly:
+- odd numbered elements need:
+1. light/red pink background
+2. llist of fonts containing 'Verdana' andd 'Dejavu Sans' with 'sans-serif as a fallback
+3. a quick note in the brief: "
+For the colors in this exercise, try using a non-keyword value (RGB, HEX, or HSL) "
+
+* let's add step '1' to the odd numbered elements and identify those
+[x] completed and identyified using comments within the .html file
+[x] named my id's and classes in html
+
+
+* let's add the fonts containing the correct fonts and the sans-serif as a fallback
+note: grouping classes ?  can  they have all the same class naming convention, could it be different and can we group them ? ** refer back to notes
+* Outcome: Yes, this is called 'grouping selectors'
+[x] grouped odd numbered selectors so that they can contrrain the correct fonts and fallback font
