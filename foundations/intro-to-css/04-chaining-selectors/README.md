@@ -19,3 +19,19 @@ The properties you need to add to each element are:
 - Did you properly chain class selectors for each rule?
 - Does the `proportioned` image retain its original square proportions?
 - Does the `distorted` image end up looking squished and, well, distorted?
+
+
+### Working through the solution
+**TheGoal** :
+is to chain the selectors for both elements, so that each have a unique style applied, despite using a shared class selector.
+
+[x] readd the instructions
+[x] look at the example image
+[x] go over the self check
+[x] analyze the html file
+
+1. Criteria 1:
+[] need to review chaining selectors in the reading material
+Note: what is chaining?:
+- html file has proportion in commong and avatar in commono
+[working on] reading through the chaining material again
