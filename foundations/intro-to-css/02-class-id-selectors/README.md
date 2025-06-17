@@ -46,3 +46,13 @@ For the colors in this exercise, try using a non-keyword value (RGB, HEX, or HSL
 note: grouping classes ?  can  they have all the same class naming convention, could it be different and can we group them ? ** refer back to notes
 * Outcome: Yes, this is called 'grouping selectors'
 [x] grouped odd numbered selectors so that they can contrrain the correct fonts and fallback font
+
+Now,  let's walk through the second element criteria:
+* **The second element**: blue text and a font size of 36px
+[x] Identify the second element - does it have an ID, Yes. is it an even element, yes
+
+Now, let's walk through the third element criteria
+[x]* **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px
+
+Now, let's walk  through the fourtht and final criteria
+[] * **The fourth element**: a light green background, a font size of 24px, and bold

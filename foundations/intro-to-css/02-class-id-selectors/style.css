@@ -2,5 +2,18 @@
 .number-three,
 .number-five {
 font: 'Verdana', 'Dejavu Sans', 'sanes-serif';
-color:rgb(255, 192, 203);;
+background-color:rgb(255, 192, 203);
+color: black;
+font-size: 24px;
+}
+
+#one {
+  color: blue;
+  font-size: 36px;
+}
+
+#four {
+  background-color: greenyellow;
+  font-size: 24px;
+  font-weight: bold;
 }
